@@ -24,5 +24,8 @@ Otaku's Discussion/Request/Report Forum<br>
 AnimeFever<br>
 [AnimeFever](https://animefever.xyz/)<br>
 <br>
+eFapper<br>
+[eFapper](https://efapper.com/)<br>
+<br>
 
 #### Enjoy Your Life, Have No Regrets
