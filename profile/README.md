@@ -6,6 +6,9 @@
 Download Animes with DDL <br>
 [AnimeKuro](https://animekuro.org)<br>
 <br>
+Download Animes from Mirror Sites <br>
+[DDLAnimes](https://ddlanimes.com)<br>
+<br>
 Watch Animes Online<br>
 [Anicore](https://anicore.org)<br>
 <br>
