@@ -1,4 +1,4 @@
-<img src="h.png"></img>
+<img src="https://raw.githubusercontent.com/Izanami-Chan/Izanami-Chan/main/h.png"></img>
 
 <h1 align="center">We Are ☠️Piracy.Wiki☠️</h1>
 
