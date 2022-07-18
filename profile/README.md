@@ -1,9 +1,9 @@
 ![header](h.png)
-<h1 align="center">☠️Piracy.Wiki☠️</h1>
+<h1 align="center">We Are ☠️Piracy.Wiki☠️</h1>
 
 <h2 align="center"> Who the fuck we are? </h2>
 
-#### We are just bunch of poeple who decided to build a dedicated team to provide the anime lovers everything they need in every type of option to get it... and we are on it.
+<p align="center"> We are just bunch of poeple who decided to build a dedicated team to provide the anime lovers everything they need in every type of option to get it... and we are on it.</p><br>
 
 ![Black Beard Ship](https://i.imgur.com/m3YNxjQ.jpg)
 
@@ -36,3 +36,7 @@ eFapper<br>
 <br>
 
 #### Enjoy Your Life, Have No Regrets
+
+<h3><a href="https://piracy.wiki">Piracy.Wiki</a></h3>
+
+
