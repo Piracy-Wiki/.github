@@ -1,4 +1,4 @@
-![header](h.png)
+<img src="h.png"></img>
 
 <h1 align="center">We Are ☠️Piracy.Wiki☠️</h1>
 
