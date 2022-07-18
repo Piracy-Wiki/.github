@@ -4,7 +4,7 @@
 
 <h2 align="center"> Who the fuck we are? </h2>
 
-<p align="center"> We are just bunch of poeple who decided to build a dedicated team to provide the anime lovers everything they need in every type of option to get it... and we are on it.</p><br>
+<p align="center"> We are just bunch of poeple who decided to build a dedicated team to provide the anime lovers everything they need in every type of option to get it... and <b> we are on it</b>.</p><br>
 
 ![Black Beard Ship](https://i.imgur.com/m3YNxjQ.jpg)
 
