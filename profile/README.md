@@ -1,4 +1,5 @@
 ![header](h.png)
+
 <h1 align="center">We Are ☠️Piracy.Wiki☠️</h1>
 
 <h2 align="center"> Who the fuck we are? </h2>
